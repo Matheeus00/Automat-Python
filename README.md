@@ -4,6 +4,6 @@ Esse script foi criado pensando em automatizar uma tarefa chata, analógica e qu
 
 Com isso em mente escrevi esse script que além de copiar arquivos de um diretório para outro, cria um arquivos de log para consulta futura e me envia por e-mail esses dados.
 
-PS: Dados sensíveis foram removidos que ~~eu não me lascar~~ nada de errado aconteça.
+PS: Dados sensíveis foram removidos para ~~eu não me lascar~~ que nada de errado aconteça.
 
 Coloquei como licença GPL para qualquer um usar, melhorar etc.
